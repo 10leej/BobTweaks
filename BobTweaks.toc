@@ -1,0 +1,5 @@
+## Interface: 80100
+## Title: BobTweaks
+## Notes: Simple QoL tweaks
+
+core.lua
